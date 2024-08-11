@@ -1,0 +1,9 @@
+{
+  "name": "applebee-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/applebee-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["applebee"],
+  "// targets": "to see all targets run: nx show project applebee-e2e --web",
+  "targets": {}
+}

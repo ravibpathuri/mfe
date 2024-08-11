@@ -1,0 +1,9 @@
+{
+  "name": "applebee",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/applebee",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project applebee --web",
+  "targets": {}
+}
