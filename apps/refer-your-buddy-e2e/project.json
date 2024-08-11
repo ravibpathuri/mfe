@@ -1,0 +1,9 @@
+{
+  "name": "refer-your-buddy-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/refer-your-buddy-e2e/src",
+  "implicitDependencies": ["refer-your-buddy"],
+  "// targets": "to see all targets run: nx show project refer-your-buddy-e2e --web",
+  "targets": {}
+}

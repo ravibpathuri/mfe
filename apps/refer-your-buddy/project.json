@@ -1,0 +1,9 @@
+{
+  "name": "refer-your-buddy",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/refer-your-buddy/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project refer-your-buddy --web",
+  "targets": {}
+}
